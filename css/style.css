@@ -1,8 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
 .nav-links-container {
     display: flex;
     gap: 10px;
     cursor: pointer;
 }
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+
+.manu-item {
+    text-decoration: none;
+    color: white;
+}
+
+
 .auth-links-container {
     display: flex;
     gap: 10px;
