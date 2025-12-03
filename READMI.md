@@ -14,7 +14,7 @@ Project Overview
      .Login page
      .Signup page 
 
-     ./images/college heading-img.jpeg" >
+     ![College Homepage](./images/college-heading-img.jpeg)
 
      .To give visitors an overview of the collage 
       .Provide quick navigation to imporatant sections 
