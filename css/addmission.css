@@ -99,6 +99,16 @@ nav {
     box-shadow: 0 0 12px rgba(0,0,0,0.15);
 }
 
+h2 {
+    color: #004aad;
+    margin-bottom: 12px;
+}
+
+h3 {
+    margin-top: 25px;
+    color: #222;
+}
+
 
 
 
